@@ -1,2 +1,1 @@
-This is simple app created with UIKit.
-This app is not for making life easier,but i think it helps to cheer up or maybe sometimes when you are tired to do as adult,you can open app and feel like a kid even if only for a short time.
+Developed a Xylophone music app for iOS using Swift. The app allows users to play musical notes by tapping colorful keys, with each key triggering a different sound. Implemented audio playback using AVFoundation, ensuring low-latency and smooth sound performance. Designed a simple, intuitive UI focused on user interaction and responsiveness.
